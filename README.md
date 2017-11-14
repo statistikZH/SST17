@@ -12,7 +12,7 @@
 
 ## distrr: Un paquet R pour la création de cubes de données
 [Sandro Petrillo](mailto:Sandro.Petrillo@ti.ch), Ufficio di statistica del  Cantone Ticino
-[Slides]()
+[Slides](https://github.com/statistikZH/SST17/blob/master/distrr_pres_JSS2017.pdf)
 
 ## Web scraping als Erhebungsmethode – ein Erfahrungsbericht
 [Thomas Lo Russo](mailto:thomas.lorusso@statistik.ji.zh.ch), Statistisches Amt Kanton Zürich
