@@ -1,7 +1,8 @@
 # Workshop 7 : R in der öffentlichen Statistik
 
 ## Aspects stratégiques de R
-[Pau Origoni](mailto:Pau.Origoni@ti.ch), Ufficio di statistica del Cantone Ticino
+[Pau Origoni](mailto:Pau.Origoni@ti.ch), Ufficio di statistica del Cantone Ticino  
+[Slides](https://github.com/statistikZH/SST17/blob/master/JSS_R%20dans%20la%20statistique%20publique_2.pdf)
 
 ## R: One tool to rule them all
 [Peter Moser](mailto:peter.moser@statistik.ji.zh.ch), Statistisches Amt Kanton Zürich
