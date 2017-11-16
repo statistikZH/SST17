@@ -9,7 +9,7 @@
 
 ## Reproduzierbare Analysen mit R und R Studio
 [Andrea Schnell](mailto:andrea.schnell@statistik.ji.zh.ch), Statistisches Amt Kanton Zürich  
-[Slides](https://schnllr.github.io/Meetup)
+[Slides](https://schnllr.github.io/SST17_Slides)
 
 ## distrr: Un paquet R pour la création de cubes de données
 [Sandro Petrillo](mailto:Sandro.Petrillo@ti.ch), Ufficio di statistica del Cantone Ticino  
