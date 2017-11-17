@@ -17,5 +17,5 @@
 
 ## Web scraping als Erhebungsmethode – ein Erfahrungsbericht
 [Thomas Lo Russo](mailto:thomas.lorusso@statistik.ji.zh.ch), Statistisches Amt Kanton Zürich  
-[Slides]()
+[Slides](https://tlorusso.github.io/SST17/#1)
 
