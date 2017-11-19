@@ -8,7 +8,7 @@
 [Peter Moser](mailto:peter.moser@statistik.ji.zh.ch), Statistisches Amt Kanton Zürich  
 [Slides](https://github.com/statistikZH/SST17/blob/master/statistiktage_2017_one_tool_to_rule.pdf)
 
-## Reproduzierbare Analysen mit R und R Studio
+## Reproduzierbare Analysen
 [Andrea Schnell](mailto:andrea.schnell@statistik.ji.zh.ch), Statistisches Amt Kanton Zürich  
 [Slides](https://schnllr.github.io/SST17_Slides)
 
