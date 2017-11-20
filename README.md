@@ -6,7 +6,7 @@
 
 ## R: One tool to rule them all
 [Peter Moser](mailto:peter.moser@statistik.ji.zh.ch), Statistisches Amt Kanton Zürich  
-[Slides](https://github.com/statistikZH/SST17/blob/master/statistiktage_2017_one_tool_to_rule.pdf)
+[Slides](https://github.com/statistikZH/SST17/blob/master/SST_2017_peter_moser_one_tool_to_rule.pdf)
 
 ## Reproduzierbare Analysen
 [Andrea Schnell](mailto:andrea.schnell@statistik.ji.zh.ch), Statistisches Amt Kanton Zürich  
